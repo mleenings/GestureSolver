@@ -1,4 +1,9 @@
 # Gesture Solver
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98ca663bec894044971be473ef6f8069)](https://www.codacy.com/manual/mleenings/gestureSolver?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mleenings/gestureSolver&amp;utm_campaign=Badge_Grade)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/mleenings/gestureSolver/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.io/mleenings/gestureSolver.svg)](http://hits.dwyl.io/mleenings/gestureSolver)
+
 This is an example to recognize gestures with the Android Sensors.
 The doing stuff:
 1) Noise reducing of the sensor data (Pre-Gesture Classification)
